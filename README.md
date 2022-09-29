@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeloBaron
-- 👀 I’m interested in JavaScript, Angular, c#
+- 👀 I’m interested in JavaScript, Angular, c#, React
 - 🌱 I’m currently learning React, c#, HTML, CSS
 
 <!---
